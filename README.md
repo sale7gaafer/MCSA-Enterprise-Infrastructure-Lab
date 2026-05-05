@@ -50,6 +50,7 @@ The lab simulates a real company setup with departments, security policies, file
   - Reserved IP: 192.168.2.2
   - Assigned to: PC1
   - Based on MAC Address
+  - 
 <img width="1919" height="697" alt="dhcp" src="https://github.com/user-attachments/assets/4fb66c55-d7fc-4576-b866-a996793f1bcd" />
 
 ---

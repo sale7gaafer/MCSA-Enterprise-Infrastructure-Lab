@@ -46,6 +46,10 @@ The lab simulates a real company setup with departments, security policies, file
   - Subnet: 192.168.2.0/24
 - Configured Default Gateway and DNS Server
 <img width="1911" height="975" alt="dhcp-scoop" src="https://github.com/user-attachments/assets/06e2aadf-7609-4cbb-b8e2-e83344c89cd4" />
+- Implemented DHCP Reservation:
+  - Reserved IP: 192.168.2.2
+  - Assigned to: PC1
+  - Based on MAC Address
 <img width="1919" height="697" alt="dhcp" src="https://github.com/user-attachments/assets/4fb66c55-d7fc-4576-b866-a996793f1bcd" />
 
 ---

@@ -85,6 +85,7 @@ The lab simulates a real company setup with departments, security policies, file
 - Enabled PXE boot
 - Deployed Windows 10 over the network
 <img width="1918" height="677" alt="wds" src="https://github.com/user-attachments/assets/8b8c67d1-c6fd-4d9b-a281-490f1b38cd5b" />
+<img width="921" height="299" alt="boot-image" src="https://github.com/user-attachments/assets/88d3611f-c78b-4347-9018-3acddfb43c34" />
 
 ---
 
@@ -117,7 +118,14 @@ The lab simulates a real company setup with departments, security policies, file
 <img width="1458" height="546" alt="qouta2" src="https://github.com/user-attachments/assets/155c119e-b76f-402b-a587-17778540f37a" />
 
 ---
+### 10. Remote Administration (RDP)
 
+- Enabled Remote Desktop for server management
+- Configured Remote Desktop Users:
+  - Added domain users (e.g., saleh) for remote access
+- Allowed secure remote login to the server
+- Tested remote access from client machine
+<img width="948" height="428" alt="rdp-users" src="https://github.com/user-attachments/assets/597dbe5c-07ec-4b40-b76d-bae87a9184a8" />
 
 ## 🎯 Skills Gained
 - Active Directory Administration

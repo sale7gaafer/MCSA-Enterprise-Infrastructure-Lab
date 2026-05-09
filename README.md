@@ -7,7 +7,7 @@ The lab simulates a real company setup with departments, security policies, file
 
 ---
 
-## 🛠️ Environment Details
+##  Environment Details
 - Server Name: DC-SG
 - Domain Name: ohi.com
 - OS: Windows Server 2016 Standard
@@ -16,7 +16,7 @@ The lab simulates a real company setup with departments, security policies, file
 
 ---
 
-## ⚙️ Project Implementation
+##  Project Implementation
 
 ### 1. Domain Controller Setup
 - Installed Windows Server 2016
@@ -127,7 +127,7 @@ The lab simulates a real company setup with departments, security policies, file
 - Tested remote access from client machine
 <img width="948" height="428" alt="rdp-users" src="https://github.com/user-attachments/assets/597dbe5c-07ec-4b40-b76d-bae87a9184a8" />
 
-## 🎯 Skills Gained
+##  Skills Gained
 - Active Directory Administration
 - Group Policy Management (GPO)
 - User Access Control & Security
@@ -139,6 +139,5 @@ The lab simulates a real company setup with departments, security policies, file
 - Windows Server Administration
 
 ---
-
-## 🚀 Conclusion
+##  Conclusion
 This project simulates a real-world enterprise IT environment where centralized management, security enforcement, and efficient resource control are implemented using Microsoft technologies.
